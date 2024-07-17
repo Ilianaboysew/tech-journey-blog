@@ -22,14 +22,7 @@ export default function Home() {
           <p className={'prose'}>
             Hey I&apos;m Iliana. This is my superior site.
           </p>
-          <div className={'my-4'}>
-            <i>
-              
-                
-                      
-                </Link>
-            </i>
-          </div>
+          
         </section>
 
         <div className={'my-4'}>
