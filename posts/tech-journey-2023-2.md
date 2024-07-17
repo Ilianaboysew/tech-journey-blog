@@ -1,15 +1,7 @@
 ---
-title: 'Tech Journey 2023 - Log 2'
-date: '2023-07-20'
+title: 'Cold freaking room'
+date: '2024-07-17'
 ---
 
-Captain's Log.
-
-It's sort of hot in here.
-I thought it was going to be ok this morning, but over time it keeps getting hotter and hotter. You might think its because of the weather. No. 
-
-It's due to these ungrateful kids.
-
-![bronco](/images/bronco.jpeg)
-
-PS: I know there are grammer issues. Don't look at them. Just ignore. Go back to your pineapple.
+This room is way too cold for me to be sitting in here for more than 10 minutes. I personally think this is some sort of twisted torture because the lunchroom challenges were not enough.
+The only way I can gain more respect for this years tech camp is if I win money or if they start passing out tech camp blankets.

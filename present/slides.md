@@ -38,9 +38,9 @@ And React is popular Javascript library.
 ## Open Source APIs
 
 - React, Next.js (libraries/frameworks)
-- [PokeAPI](https://beta.pokeapi.co/graphql/console/)
+- [WordleAPI](https://www.nytimes.com/games/wordle/index.html)
 - [SpaceX API](https://api.spacex.land/graphql/)
-- [Rick and Morty API](https://rickandmortyapi.com/)
+- [Batman API](https://www.dailymotion.com/video/x89h1wp)
 
 ## Hosting
 

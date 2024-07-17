@@ -1,10 +1,17 @@
 ---
-title: "Navigating the Cosmos with Misspelled Words: A Starship Captain's Frustration"
-date: '2023-07-20'
+title: "DIfferent series that my brother introduced me to"
+date: '2024-07-17'
 ---
 
-*Captain's Log, Stardate 45192.3*
+*I was introduced to many series due to my brother here are some of my favorites*
 
-As the captain of the USS Odyssey, my interstellar journeys have been awe-inspiring. But behind my leadership lies an unexpected struggle – spelling. Despite efforts to overcome it, my misspellings have caused comical and critical situations alike. Yet, my loyal crew's support and understanding have taught me that embracing imperfections and focusing on strengths matter most in the vast expanse of space.
+1. Batman- all animated series
+2. Vinland saga
+3. Young Justice
+4. Teen Titans
+5. Ultimate Spider-Man
 
-*Captain Amelia Zephyr, USS Odyssey*
+
+*honorable mention- Psych*
+
+

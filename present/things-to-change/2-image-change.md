@@ -8,7 +8,7 @@ Change the src link here to something fun.
 - Change the imageUrl
 ```jsx
 // Change this url to change the image!
-const imageUrl = '/images/snorlax.jpg';
+const imageUrl = '/images/(batman.jpg)';
 // to
 const imageUrl = '/images/{name-of-file}';
 ```

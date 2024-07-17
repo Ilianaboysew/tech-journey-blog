@@ -1,5 +1,5 @@
 ---
-title: 'Tech Journey 2024 - Welcome'
+title: 'Tech Journey 2024 Welcome'
 date: '2024-07-17'
 ---
 
@@ -22,3 +22,6 @@ What is your name, your favorite pokemon, and something cool about you?
 - Suvan, Slowbro, I am cold right now.
 - Jessa, squirtle, 3 day running trail fest.
 - Joey, pikachu, run cross country.
+
+
+ILIANA SHOULD GET ALL THE VOTES
